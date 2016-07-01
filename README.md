@@ -1,5 +1,5 @@
 # hello-world
-1st repository for a newbie trying to learn how to program
+1st repository for a newbie trying to learn how to program.
 
 Yasss, I am an inferior woman trying to learn how to program and kick asses. 
 Programming is the present.
